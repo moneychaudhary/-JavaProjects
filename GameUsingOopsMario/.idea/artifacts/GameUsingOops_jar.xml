@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameUsingOops:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameUsingOops_jar</output-path>
+    <root id="archive" name="GameUsingOops.jar">
+      <element id="module-output" name="GameUsingOops" />
+    </root>
+  </artifact>
+</component>
